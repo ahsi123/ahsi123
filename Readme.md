@@ -2,7 +2,6 @@
 <h3 align="center">A passionate AI Engineer from Pakistan</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahsi123" alt="ahsi123" /></a> </p>
 
 - 🔭 I’m currently working on **Interpretable Speaking AI**
 
